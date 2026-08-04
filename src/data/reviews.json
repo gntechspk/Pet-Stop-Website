@@ -1,0 +1,99 @@
+{
+  "totalScore": 4.2,
+  "reviewsCount": 280,
+  "placeName": "Pet Stop clinic",
+  "address": "Wallayat Complex, Bahria Expy, Islamabad, 46000, Pakistan",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pet+Stop+clinic/@33.5363432,73.1109128,17z/data=!4m15!1m8!3m7!1s0x38dfecd8adf85b03:0x899e8b8c62fecb67!2sPet+Stop+clinic!8m2!3d33.5363374!4d73.1106644",
+  "reviews": [
+    {
+      "id": "rev-1",
+      "name": "Nasrullah Shah",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUWtIJDZ_bczn5Esv-atQP00BAoE9ypftSIqM06jNvMjcUkfqR-=s120-c-rp-mo-ba12-br100",
+      "stars": 5,
+      "publishAt": "11 months ago",
+      "isLocalGuide": true,
+      "text": "My dog got parvo virus and she was in very critical condition and someone recommended this place. I got my dog admitted there for 6 days and Dr Adeel Khalid took care of her. People there are animal lovers and they would not mistreat your pet. Highly recommended place."
+    },
+    {
+      "id": "rev-2",
+      "name": "Raja Mehvish",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLyvzSTvvhl4acY0N2Sj4csYWKVG0-Ht98UyJadtTJEnYfurA=s120-c-rp-mo-br100",
+      "stars": 5,
+      "publishAt": "3 months ago",
+      "isLocalGuide": false,
+      "text": "The staff truly care about animals. They treated my cat with love and patience. I will definitely come back for future visits."
+    },
+    {
+      "id": "rev-3",
+      "name": "Talha qammar",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLInaYqqsudFxwRuaIOuP5MuXxSUOhg2zj1JqydTY1t92sFmw=s120-c-rp-mo-br100",
+      "stars": 5,
+      "publishAt": "5 months ago",
+      "isLocalGuide": false,
+      "text": "Thank you for excellent services that you given to my pets. Doctor is compassionate, expert & friendly. The staff is caring and truly supportive."
+    },
+    {
+      "id": "rev-4",
+      "name": "saad aman",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKaIJC8cn069SBIRMXpvVz4-_iSw9mGXJY8ghr0r0aNqYR2Hg=s120-c-rp-mo-br100",
+      "stars": 5,
+      "publishAt": "a year ago",
+      "isLocalGuide": false,
+      "text": "I can't thank them enough for the immaculate service. They groomed my Dog and did a very good job. Babar Bhai and their team did an amazing Job."
+    },
+    {
+      "id": "rev-5",
+      "name": "Haroon Gill",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKdQfXv9exjZVO_uWdL76NJiyPe9PGqAkwmrhq4wZnXuZ-sUg=s120-c-rp-mo-br100",
+      "stars": 5,
+      "publishAt": "5 months ago",
+      "isLocalGuide": false,
+      "text": "Very professional doctor and all staff. I'm recommend pet stop clinic for your fluffy paws health."
+    },
+    {
+      "id": "rev-6",
+      "name": "Johan Arman",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJFm7r3eLcp5Z8-M-rW16EkNsBVzuDvx7EtifL9WzjAFvLUKw=s120-c-rp-mo-br100",
+      "stars": 5,
+      "publishAt": "5 months ago",
+      "isLocalGuide": false,
+      "text": "Very Good Services. Highly recommended."
+    },
+    {
+      "id": "rev-7",
+      "name": "Maryam Ch",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJu0NH_Y2dPJN2e2bPwk3cEwAK2DsbWbfiuykZh5WIFipX02Q=s120-c-rp-mo-br100",
+      "stars": 5,
+      "publishAt": "a year ago",
+      "isLocalGuide": false,
+      "text": "Best clinic in town. Highly recommended for pets. They have everything you need for your pets under one roof... Thank you so much dr they treat my cat very well and very humbled and nice person Owner of pet stop clinic Mr Baber."
+    },
+    {
+      "id": "rev-8",
+      "name": "warda",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJaIgCTIo6wdOhj4uYRiPEPbRqqbuxFDWWOU2TNhUoOqBYTGj7N=s120-c-rp-mo-br100",
+      "stars": 5,
+      "publishAt": "2 years ago",
+      "isLocalGuide": true,
+      "text": "My most trusted veterinarian in Rawalpindi. I recently got my cat's surgery done from here and they did a great job and also kept her for after-care so she can heal better. You can trust them for all your furry babies' needs. Highly recommended."
+    },
+    {
+      "id": "rev-9",
+      "name": "Izza Asif",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVwTYoCVnSaNdN-fRrW_PdeufcmWKxE8W7LF0YCWtS9CzCh80UD=s120-c-rp-mo-ba12-br100",
+      "stars": 5,
+      "publishAt": "2 years ago",
+      "isLocalGuide": true,
+      "text": "This is my cat ponyo she’s a year & half old, we’ve been going to Pet Stop for her regular bath check ups & even neutering for about a year now. Safe to say we’re completely satisfied with the way they’ve handled ponyo throughout this period of time. 10/10 recommended."
+    },
+    {
+      "id": "rev-10",
+      "name": "Adnan Ata",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKWoZLKPyVhNjwK1bo_txk9KX43Kmcda_opfmEQ1CiMxFmd=s120-c-rp-mo-ba12-br100",
+      "stars": 5,
+      "publishAt": "6 years ago",
+      "isLocalGuide": true,
+      "text": "Very reasonable rates. I was charged Rs 200 for the inspection and treatment of my pet cat. Doctor is good. Rates for pots and cages are also very low with good quality."
+    }
+  ]
+}

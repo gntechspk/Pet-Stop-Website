@@ -1,0 +1,6 @@
+{
+  "name": "Pet Stop Clinic",
+  "description": "Premium, modern website for Pet Stop Clinic — compassionate 24/7 veterinary care, surgery, grooming, pharmacy, and pet supplies in Islamabad, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

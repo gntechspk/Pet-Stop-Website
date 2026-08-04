@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-heading: 'Poppins', 'Inter', sans-serif;
+
+  --color-brand-red: #C81D25;
+  --color-brand-red-hover: #A8141B;
+  --color-brand-red-light: #FDF2F2;
+
+  --color-brand-navy: #0E2338;
+  --color-brand-navy-dark: #0A1726;
+  --color-brand-navy-light: #1E3A5F;
+  --color-brand-navy-subtle: #F0F4F8;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+body {
+  font-family: var(--font-sans);
+  color: #1e293b;
+  background-color: #ffffff;
+}
+
+/* Custom subtle pattern backgrounds for placeholders */
+.blueprint-grid {
+  background-size: 20px 20px;
+  background-image:
+    linear-gradient(to right, rgba(14, 35, 56, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(14, 35, 56, 0.05) 1px, transparent 1px);
+}
+
+.medical-cross-pattern {
+  background-color: #f8fafc;
+  background-image: radial-gradient(rgba(200, 29, 37, 0.08) 1px, transparent 0);
+  background-size: 16px 16px;
+}
